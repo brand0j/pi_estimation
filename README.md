@@ -21,5 +21,3 @@ angle = np.linspace(0, 2* pi, n)
 x_c = r * np.cos(angle)
 
 y_c = r * np.sin(angle)
-
-Finally the estimation of pi itself. Using the area of a circle and the area of a square, we can set up the following ratio
