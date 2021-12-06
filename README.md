@@ -1,1 +1,1 @@
-# Estimating Pi with N random points
+##Estimating pi with N random points
